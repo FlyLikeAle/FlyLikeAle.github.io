@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automatisches Einfügen des Ausgewählten characters 
+title: Automatisches Einfügen des Ausgewählten Charakters 
 ---
 
 
