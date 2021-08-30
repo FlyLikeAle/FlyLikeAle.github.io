@@ -32,7 +32,7 @@ Bild in Jsf einbinden:
 
 Code für das generieren des Namens:
 
-```Java
+```java
 public String getFilename() {
         
         String returnstring = "";
@@ -56,7 +56,7 @@ public String getFilename() {
 
 Ausgabe des erstellten Charakters und die Eingaben des Benutzers:
 
-```xhtml
+```xml
 <h:body>
         <h:graphicImage library="img" name="#{characterBean.filename}.png"/>
         <br/>
