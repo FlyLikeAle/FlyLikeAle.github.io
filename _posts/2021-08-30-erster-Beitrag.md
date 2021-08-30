@@ -92,6 +92,6 @@ Die Ausgabe der Benutzereingaben verlief auch ohne Probleme, da wir es schon im 
 
 Beim Generieren des Namen für das darstellen des Bildes hatte ich Probleme, da ich zuerst etwas versucht habe, dass nicht möglich war. Jedoch nachdem ich mich im Internet informiert hatte, eine Lösung gefunden habe.
 
-##### Verbesserungsvorschlag:
+#### Verbesserungsvorschlag:
 
 Beim nächsten Mal, sich zuerst über die Themen informieren und nicht direkt ans Programmieren gehen.
